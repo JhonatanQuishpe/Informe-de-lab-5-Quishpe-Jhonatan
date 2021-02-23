@@ -176,12 +176,16 @@ RECOMENDACIONES
 
 -	1.- Justifique los errores cometidos en las mediciones.
 el error que se justifica en esta practica es que al momento de sacar la señal por el osciloscopio podemos observar el valor pico de la señal por ejemplo seria la amplitud de la misma, al sacar la el voltaje con el multímetro estamos sacando el valor eficaz y a ese mismo valor debemos multiplicarlo por raíz de 2 una vez hecho eso estaríamos sacando el voltaje pico.
+
 -	2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 En corriente DC el Capacitor tiende a comportándose como un circuito abierto, por ende su valor es 0, y el inductor se comporta como una fuente de voltaje auto-inducido, ya que El campo magnético de la bobina se debilita.
+
 -	3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 En corriente alterna la bobina retiene el paso de electrones hasta que se establece el campo magnético, y el capacitor establecerá un efecto ininterrumpido de “carga-descarga” entre las dos placas que lo componen, así como la circulación de una corriente eléctrica, también alterna. La cantidad de veces que esta variación se produce en un segundo, dependerá de la frecuencia.
--	4.- ¿Qué cree usted que ocurriría con el voltaje V௢ y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+-	4.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 El voltaje Vo variaría porque tocaría sacar la inductancia y capacitancia de cada elemento con las mismas frecuencias q nos pide en este laboratorio y así hacerlo el paralelo de los mismos elementos por esta misma manera por la frecuencia el Vo seguiría variando.
+
 -	5.- ¿Qué son los valores eficaces de voltaje y corriente?
 Trabajamos con corriente alterna, por ello tenemos función senoide, de la cual sacamos que:
 El valor eficaz, es el valor cuadrático medio de una magnitud eléctrica. Se usa especialmente para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas las formas de onda, constantes o no.
