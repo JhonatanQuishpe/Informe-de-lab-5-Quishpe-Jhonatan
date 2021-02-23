@@ -66,7 +66,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 2.- Construya el circuito mostrado en la Figura 2
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
-[Explicacion en video ](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
+[Explicacion en video ](https://youtu.be/OmOeGrQLSFg)
 
 
 ## 6.	DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN: 
@@ -190,5 +190,5 @@ El valor eficaz, es el valor cuadrático medio de una magnitud eléctrica. Se us
 
 
 Video explicativo 
-[video del grupo en youtube](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
-[segunda parte lab 1 calculo de corrientes](https://www.youtube.com/watch?v=_Au_3_axZe8 "segunda parte lab 1")
+[video del grupo en youtube](https://youtu.be/OmOeGrQLSFg)
+
