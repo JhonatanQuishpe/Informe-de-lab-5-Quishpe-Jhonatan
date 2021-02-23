@@ -58,12 +58,12 @@ Fecha de entrega: 23/02/2021
 
 
 ## 5.	EXPLICACIÓN: 
-######1.- Construya en el protoboard el circuito mostrado en la Figura1.
-a. Utilice el osciloscopio para observar el voltaje V௢ variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
-b. Utilice un multímetro para medir el voltaje V௢ variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+1.- Construya en el protoboard el circuito mostrado en la Figura1.
+a. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+b. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
-######2.- Construya el circuito mostrado en la Figura 2
+2.- Construya el circuito mostrado en la Figura 2
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
 [Explicacion en video ](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
